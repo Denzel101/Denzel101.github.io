@@ -1,0 +1,24 @@
+{
+    "name": "denzel-gatugu-dev",
+    "short_name": "denzel-gatugu-dev",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#6AE99F",
+    "theme_color": "#6AE99F",
+    "description": "Hello I'm Denzel I develop mobile,frontend and backend applicationa",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+        ,
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
