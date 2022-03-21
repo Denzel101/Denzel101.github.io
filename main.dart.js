@@ -59919,7 +59919,7 @@ A.py.prototype={
 N(a,b){var s=null,r=this.c,q=r*0.07,p=r*0.19,o=r*0.01,n=r*0.06,m=r*0.007,l=r*0.012
 return A.lh(B.ai,A.e([A.KQ("assets/images/khalid.png",r*0.3,r*0.29),A.i9(s,A.KQ("assets/images/laravel.png",q,q),s,s,0,s,r*0.17,s),A.i9(s,A.KQ("assets/images/flutter_circle.png",r*0.08,r*0.083),s,s,s,o,p,s),A.i9(s,A.KQ("assets/images/php.png",r*0.058,n),s,s,s,r*0.016,n,s),A.i9(s,A.d_(s,s,B.z,s,s,B.uP,s,m,s,s,s,s,s,m),s,s,r*0.025,s,r*0.04,s),A.i9(s,A.d_(s,s,B.z,s,s,B.uN,s,m,s,s,s,s,s,m),s,s,s,1,p,s),A.i9(s,A.d_(s,s,B.z,s,s,B.uL,s,m,s,s,s,s,s,m),s,s,r*0.03,s,r*0.28,s),A.i9(s,A.d_(s,s,B.z,s,s,B.uO,s,l,s,s,s,s,s,l),s,s,s,1,o,s)],t.p),B.bg)}}
 A.oU.prototype={
-N(a,b){var s,r,q=null,p="Delius",o="I develop mobile,frontend applications.",n=this.c,m=n?1/0:this.d*0.29,l=n?B.V:B.aQ,k=A.d_(B.ai,A.Ru(A.cz("Software Engineer",A.d1("Days One",B.x,q,10),q,q),q,q),B.z,B.S,q,q,q,40,q,B.AM,q,q,q,135),j=this.d,i=A.d8(q,0.015*j,q),h=A.cz("Talk is cheap.",A.d1(p,B.v,q,30),q,q),g=A.cz("Show me the code.",A.d1(p,B.v,q,30),q,q)
+N(a,b){var s,r,q=null,p="Delius",o="I develop both for frontend and backend applications.",n=this.c,m=n?1/0:this.d*0.29,l=n?B.V:B.aQ,k=A.d_(B.ai,A.Ru(A.cz("Software Engineer",A.d1("Days One",B.x,q,10),q,q),q,q),B.z,B.S,q,q,q,40,q,B.AM,q,q,q,135),j=this.d,i=A.d8(q,0.015*j,q),h=A.cz("Talk is cheap.",A.d1(p,B.v,q,30),q,q),g=A.cz("Show me the code.",A.d1(p,B.v,q,30),q,q)
 j=n?1/0:j*0.29
 n=n?B.jX:B.bh
 s=A.d1(p,B.a5,q,15)
@@ -59942,7 +59942,7 @@ N(a,b){var s=null,r=" denzel-gatugu-dev",q="Delius",p="denzelgatugu@gmail.com",o
 return A.d_(s,A.dP(A.e([new A.pC(n,this.d,s),B.I4,l],m),B.V,B.a6),B.z,B.aE,s,s,s,s,s,s,B.AJ,s,s,n)}}
 A.KL.prototype={
 N(a,b){var s=null
-return A.d_(s,A.dP(A.e([A.cz("Hello! I\u2019m Denzel Gatugu",A.d1("Delius",B.v,s,26),s,s),B.tt,A.cz("I seek challenging opportunities where I can fully use my skills for the foreseeable success.",A.d1("Delius",B.a5,s,16),s,s)],t.p),B.aQ,B.a6),B.z,s,new A.ax(0,this.c*this.d,0,1/0),s,s,s,s,s,s,s,s,s)}}
+return A.d_(s,A.dP(A.e([A.cz("Hello! I\u2019m Denzel Gatugu",A.d1("Delius",B.v,s,26),s,s),B.tt,A.cz("I seek challenging opportunities where I can fully utilise my skills for the foreseeable success.",A.d1("Delius",B.a5,s,16),s,s)],t.p),B.aQ,B.a6),B.z,s,new A.ax(0,this.c*this.d,0,1/0),s,s,s,s,s,s,s,s,s)}}
 A.KV.prototype={
 N(a,b){var s=null,r="Delius"
 return A.d_(s,A.dP(A.e([A.cz("\u2022 I studied Business Information Technology at the University of Zetech.",A.d1(r,B.a5,s,13),s,s),B.jI,A.cz("\u2022 Coding makes me happy.",A.d1(r,B.a5,s,13),s,s),B.jI,A.cz("\u2022 I always discover new and best technologies and use them to make clients feel comfortable and satisfied. ",A.d1(r,B.a5,s,13),s,s)],t.p),B.aQ,B.a6),B.z,s,new A.ax(0,this.c*this.d,0,1/0),s,s,s,s,s,s,s,s,s)}}
